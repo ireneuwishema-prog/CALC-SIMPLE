@@ -12,8 +12,7 @@ function calc(add_operation){
 };
 // delete button
 function delet(delte){
-
-    inputNumber.value = inputNumber.value.slice(0, -1);
+        inputNumber.value = inputNumber.value.slice(0, -1);
 }
         // for to get ==
 c.addEventListener ('click',function (){;
